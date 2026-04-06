@@ -1,0 +1,18 @@
+D:\coding\posttest baru\posttest baru\bin\Debug\net10.0-windows\posttest baru.exe
+D:\coding\posttest baru\posttest baru\bin\Debug\net10.0-windows\posttest baru.deps.json
+D:\coding\posttest baru\posttest baru\bin\Debug\net10.0-windows\posttest baru.runtimeconfig.json
+D:\coding\posttest baru\posttest baru\bin\Debug\net10.0-windows\posttest baru.dll
+D:\coding\posttest baru\posttest baru\bin\Debug\net10.0-windows\posttest baru.pdb
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest_baru.Form1.resources
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest_baru.Form2.resources
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.vbproj.GenerateResource.cache
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.AssemblyInfoInputs.cache
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.AssemblyInfo.vb
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.vbproj.CoreCompileInputs.cache
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.dll
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\refint\posttest baru.dll
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.pdb
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest baru.genruntimeconfig.cache
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\ref\posttest baru.dll
+D:\coding\posttest baru\posttest baru\obj\Debug\net10.0-windows\posttest_baru.Resources.resources
